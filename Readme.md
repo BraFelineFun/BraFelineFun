@@ -1,8 +1,8 @@
 ### Hello! 🖐
 #### My name is Vlad. I'm front-end developer
 
-[![Anurag's github stats](https://using-a-github-readme-stats.vercel.app/api?username=brafelinefun&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> 
-[![Top Langs](https://using-a-github-readme-stats.vercel.app/api/top-langs/?username=brafelinefun&layout=compact&theme=radical)](https://github.com/brafelinefun/github-readme-stats)
+[![Anurag's github stats](https://using-a-github-readme-stats-h4p1.vercel.app/api?username=brafelinefun&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> 
+[![Top Langs](https://using-a-github-readme-stats-h4p1.vercel.app/api/top-langs/?username=brafelinefun&layout=compact&theme=radical)](https://github.com/brafelinefun/github-readme-stats)
 
 
 <div>
